@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joewethern
 - 👀 I’m interested in: Cloud computing
-- 🌱 I’m currently learning: Amazon Web Services and similar tools to desig cloud computing solutions
+- 🌱 I’m currently learning: Amazon Web Services and similar tools to design cloud computing solutions
 - 💞️ I’m looking to collaborate on: Cloud Projects
 - 📫 How to reach me: joewethern@yahoo.com
 
